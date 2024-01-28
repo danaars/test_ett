@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "entotre",
-    version = "11",
+    name = "GiTall",
+    version = "1",
     packages = find_packages(),
 )
