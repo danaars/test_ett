@@ -1,6 +1,7 @@
 import sys
 
 sys.path.append(".")
+print("Path added")
 import random
 from annen_fil import niceprint
 
