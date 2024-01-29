@@ -1,3 +1,6 @@
+import sys
+
+sys.path.append(".")
 import random
 from annen_fil import niceprint
 
