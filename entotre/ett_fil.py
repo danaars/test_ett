@@ -1,9 +1,11 @@
-import sys
+#import sys
 
 #sys.path.append(".")
 #print("Path added")
 import random
 #from . import annen_fil
+from submodule.submodfile import submodfunc
+print("submod import succ")
 from annen_fil import niceprint
 
 def ett():
